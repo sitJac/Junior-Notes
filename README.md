@@ -1,2 +1,2 @@
 # Junior-Notes
-A
+A Responsity of my Junior Notes
